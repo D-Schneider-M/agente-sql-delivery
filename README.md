@@ -1,5 +1,7 @@
 # Agente SQL Delivery
+[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agente-sql-delivery-hwiu4dbhsmwm3tqmapp6fok.streamlit.app)
 
+> **Demonstração ao vivo:** [Acesse o Agente Autônomo no Streamlit Cloud](https://agente-sql-delivery-hwiu4dbhsmwm3tqmapp6fok.streamlit.app)
 Agente de análise de dados que recebe perguntas em português, inspeciona um banco SQLite,
 gera consultas SQL por Function Calling do Gemini e devolve uma análise executiva com
 trilha de auditoria.
